@@ -1,0 +1,6 @@
+applicationType: cli
+defaultPackage: no.ssb.kostra
+testFramework: kotest
+sourceLanguage: kotlin
+buildTool: maven
+features: [annotation-api, app-name, jackson-databind, kotest, kotlin, logback, maven, picocli, picocli-kotest, picocli-kotlin-application, readme, shade, yaml]
